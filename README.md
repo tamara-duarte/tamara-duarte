@@ -2,7 +2,7 @@
 
 ### “Your assumptions are your windows on the world. Rub them or the light won't get in.” - A. Diniz
 
-I´m a data analytics professional, with over 6 years of experience in the data industry. I´m passionate about innovation and a big fan of collaborative creations. I am a co-founder and Data Team Lead of a Non-profit Big Data Startup funded by one of the most relevant public research institutes in Brazil. Interested in web3 and fast paced environments.
+I am a data analytics professional, with over 6 years of experience in the data industry, passionate about innovation and a big fan of collaborative creations. I am a co-founder and Data Team Lead of a Non-profit Big Data Startup funded by one of the most relevant public research institutes in Brazil. Interested in web3 and fast paced environments.
 
 <a href="https://www.linkedin.com/in/tamara-o-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "tam.oduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
