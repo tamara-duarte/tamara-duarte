@@ -4,7 +4,7 @@
 
 I am innovation consultant, with over 6 years of experience in the tech industry, passionate about innovation and a big fan of collaborative creations.
 
-Here you find my portfólo in Data Analytics. 
+Here you find my portfolio in Data Analytics. 
 
 <a href="https://www.linkedin.com/in/tamara-o-duarte" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href = "tam.oduarte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
